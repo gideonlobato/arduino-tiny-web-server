@@ -1,0 +1,1 @@
+Small library that could be used to implement a web server that runs on Arduino with an Ethernet shield.
